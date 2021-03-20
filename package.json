@@ -1,7 +1,7 @@
 {
     "name": "numerical-hashing-algorithm",
     "description": "A small client-side JavaScript encryption experiment",
-    "version": "0.0.3",
+    "version": "0.0.6",
     "author": "Drew Markel <drewmrk8@gmail.com>",
     "license": "MIT",
     "main": "src/NHA.js",
@@ -16,19 +16,7 @@
         "client",
         "security"
     ],
-    "scripts": {
-        "build": "babel src -d dist",
-        "clean": "rm -rf tests/*.js dist/"
-    },
-    "devDependencies": {
-        "@babel/cli": "^7.13.10",
-        "@babel/core": "^7.13.10",
-        "@babel/plugin-transform-arrow-functions": "^7.13.0",
-        "@babel/plugin-transform-block-scoping": "^7.12.13",
-        "babel-preset-minify": "^0.5.1",
-        "perf_hooks": "^0.0.1"
-    },
     "dependencies": {
-        "numerical-hashing-algorithm": "^0.0.3"
+        "numerical-hashing-algorithm": "^0.0.6"
     }
 }

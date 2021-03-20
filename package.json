@@ -1,7 +1,7 @@
 {
     "name": "numerical-hashing-algorithm",
     "description": "A small client-side JavaScript encryption experiment",
-    "version": "0.0.6",
+    "version": "0.0.7",
     "author": "Drew Markel <drewmrk8@gmail.com>",
     "license": "MIT",
     "main": "src/NHA.js",

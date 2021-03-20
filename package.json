@@ -17,6 +17,6 @@
         "security"
     ],
     "dependencies": {
-        "numerical-hashing-algorithm": "^0.0.9"
+        "numerical-hashing-algorithm": "^0.0.3"
     }
 }

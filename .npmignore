@@ -1,8 +1,7 @@
+dist
 node_modules
 yarn.lock
-documentation
-dist
-*.js
 .DS_Store
 test
 yarn-error.log
+documentation

@@ -1,5 +1,6 @@
-dist
-*.js
 node_modules
 yarn.lock
+documentation
+dist
+*.js
 .DS_Store
